@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="20dp"
-        android:text="ProjectGurukul"
+        android:text="Финансы"
         android:textColor="@color/white"
         android:textSize="32sp" />
 
@@ -25,7 +25,7 @@
         android:layout_marginLeft="30dp"
         android:layout_marginTop="15dp"
         android:layout_marginBottom="20dp"
-        android:text="Dashboard"
+        android:text="Главная"
         android:textColor="@color/white"
         android:textSize="28sp" />
 
@@ -49,7 +49,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/bungee_inline"
-                android:text="Income"
+                android:text="Доходы"
                 android:textColor="@color/light_green"
                 android:textSize="24sp" />
 
@@ -74,7 +74,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/bungee_inline"
-                android:text="Expense"
+                android:text="Расходы"
                 android:textColor="@color/light_red"
                 android:textSize="24sp" />
 
@@ -97,7 +97,7 @@
         android:layout_below="@id/rl"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="30dp"
-        android:text="Income:"
+        android:text="Доходы:"
         android:textColor="@color/textColor"
         android:textSize="24sp" />
 
@@ -117,7 +117,7 @@
         android:layout_below="@id/rv_income"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="30dp"
-        android:text="Expense:"
+        android:text="Расходы:"
         android:textColor="@color/textColor"
         android:textSize="24sp" />
 
@@ -167,7 +167,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="34dp"
         android:layout_toLeftOf="@id/add_expense_fab"
-        android:text="Add Expense"
+        android:text="Добавить расход"
         android:textColor="@color/textColor"
         android:textSize="16sp" />
 
@@ -192,7 +192,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="34dp"
         android:layout_toLeftOf="@id/add_expense_fab"
-        android:text="Add Income"
+        android:text="Добавить доход"
         android:textColor="@color/textColor"
         android:textSize="16sp" />
 

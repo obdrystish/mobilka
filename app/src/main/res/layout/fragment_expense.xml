@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="20dp"
-        android:text="ProjectGurukul"
+        android:text="Финансы"
         android:textColor="@color/white"
         android:textSize="32sp" />
 
@@ -25,7 +25,7 @@
         android:layout_marginLeft="30dp"
         android:layout_marginTop="15dp"
         android:layout_marginBottom="20dp"
-        android:text="Expense"
+        android:text="Расходы"
         android:textColor="@color/white"
         android:textSize="28sp" />
 
@@ -48,7 +48,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/bungee_inline"
-                android:text="Expense"
+                android:text="Расходы"
                 android:textColor="@color/light_red"
                 android:textSize="24sp" />
 

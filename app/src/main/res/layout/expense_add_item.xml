@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_weight="2"
-            android:text="Amount: "
+            android:text="Сумма: "
             android:textColor="@color/textColor"
             android:textSize="20sp" />
 
@@ -47,7 +47,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_weight="2"
-            android:text="Type: "
+            android:text="Тип: "
             android:textColor="@color/textColor"
             android:textSize="20sp" />
 
@@ -76,7 +76,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_weight="2"
-            android:text="Note: "
+            android:text="Текст: "
             android:textColor="@color/textColor"
             android:textSize="20sp" />
 
@@ -108,7 +108,7 @@
             android:layout_marginRight="16dp"
             android:layout_weight="1"
             android:background="@drawable/bg_rounded_input_field"
-            android:text="Cancel"
+            android:text="Отменить"
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="16sp" />
@@ -122,7 +122,7 @@
             android:layout_marginRight="8dp"
             android:layout_weight="1"
             android:background="@drawable/bg_rounded_input_field"
-            android:text="Save"
+            android:text="Сохранить"
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="16sp" />
