@@ -283,8 +283,8 @@ public class Dashboard extends Fragment {
         tv_income = root.findViewById(R.id.tv_income);
         tv_expense = root.findViewById(R.id.tv_expense);
 
-        tv_income.setText("Rs. 11000");
-        tv_expense.setText("Rs. 8000");
+        tv_income.setText("₽ 11000");
+        tv_expense.setText("₽ 8000");
 
         mAddFab = root.findViewById(R.id.add_fab);
         mAddIncomeFab = root.findViewById(R.id.add_income_fab);
